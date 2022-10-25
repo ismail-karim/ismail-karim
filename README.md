@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ismail
 - 👀 I’m interested in web developpement and tech news
-- 🌱 I’m currently learning PHP and Typescript 
+- 🌱 I learn every day
 - 💞️ I’m looking to collaborate on PHP and JS projects
 - 📫 Reach me on email: ikarimallah@gmail.com
 
