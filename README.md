@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ismail
 - 👀 I’m interested in web developpement and tech news
 - 🌱 I learn every day
-- 💞️ I’m looking to collaborate on PHP and JS projects
+- 💞️ I’m looking to collaborate on .NET Core and Angular projects
 - 📫 Reach me on email: ikarimallah@gmail.com
 
 <!---
